@@ -110,13 +110,14 @@ There are some unexpected changes to the PC keyboard layout, as follows:
 
 Note that programming languages that need {, }, and _ will alter the character
 set to show those symbols on the appropriate keys when needed. Or you can use
-ISO mode when editing C code in EDIT.
+ISO mode when editing C code in EDIT. You can use CTRL-o (that's not a 0!) to 
+switch to ISO mode. 
 
 ### Lower Case Mode
 
 WORKING IN _PETSCII_ MIGHT MAKE PEOPLE THINK YOU'RE YELLING ALL THE TIME.
-Fortunately, there's an upper/lower case mode, too: Hold the Alt key and tap
-Shift to activate lower case. Notice that the upper case letters shift to lower
+Fortunately, there's an upper/lower case mode, too: Hold the LEFT Alt key and tap
+LEFT Shift to activate lower case. Notice that the upper case letters shift to lower
 case, and the shifted graphic symbols (such as the heart) shift to upper case
 letters. The tradeoff of upper/lower case mode is that half of the graphic
 symbols are unavailable, but you you get lower case letters.
